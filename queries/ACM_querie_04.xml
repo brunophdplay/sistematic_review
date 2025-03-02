@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://dl.acm.org/action/doSearch?type=advanced&amp;mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Association for Computing Machinery: Keyword search for query</title>
+      <description>Keyword search result for [[Title: "storytelling"] OR [Title: "data storytelling"] OR [Title: "data-driven storytelling"] OR [Title: "narrative"] OR [Title: "narrative-driven"]] AND [[Title: "design"] OR [Title: "ux design"] OR [Title: "design thinking"]] AND [[Title: "framework"] OR [Title: "model"] OR [Title: "metamodel"] OR [Title: "methodology"] OR [Title: "approach"] OR [Title: "process"] OR [Title: "strategy"]] -- New results matching your keyword search query (updated daily).</description>
+      <link>https://dl.acm.org/action/doSearch?type=advanced&amp;mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <dc:title>Association for Computing Machinery: Keyword search for query</dc:title>
+      <dc:publisher>Association for Computing Machinery</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName/>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3202667.3206097?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/1836135.1836138?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3563657.3596105?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3544549.3573866?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3690712.3690719?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3479533?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3635636.3664625?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3616961.3616989?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3392870?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3284432.3284434?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3064663.3064684?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/2996267.2996270?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/3306500.3306559?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/2030031.2030040?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/1297277.1297286?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+            <rdf:li rdf:resource="https://dl.acm.org/doi/abs/10.1145/352580.352586?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="http://www.atypon.com/images/atypon_logo_small.gif">
+      <title>Atypon Systems</title>
+      <url>http://www.atypon.com/images/atypon_logo_small.gif</url>
+      <link>http://www.atypon.com</link>
+   </image>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3202667.3206097?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Key Elements of Design Thinking Tools</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3202667.3206097?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>ChineseCHI '18: Proceedings of the Sixth International Symposium of Chinese CHI, Page 128-131. &lt;br/&gt;</content:encoded>
+      <description>ChineseCHI '18: Proceedings of the Sixth International Symposium of Chinese CHI, Page 128-131. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3202667.3206097</dc:identifier>
+      <dc:source/>
+      <dc:date>2018-04-21T07:00:00Z</dc:date>
+      <prism:publicationName>Key Elements of Design Thinking Tools</prism:publicationName>
+      <prism:startingPage>128</prism:startingPage>
+      <prism:endingPage>131</prism:endingPage>
+      <prism:coverDate>2018-04-21T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/3202667.3206097</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3202667.3206097?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/1836135.1836138?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>A narrative-driven design approach for casual games with children</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/1836135.1836138?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>Sandbox '10: Proceedings of the 5th ACM SIGGRAPH Symposium on Video Games, Page 19-24. &lt;br/&gt;</content:encoded>
+      <description>Sandbox '10: Proceedings of the 5th ACM SIGGRAPH Symposium on Video Games, Page 19-24. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/1836135.1836138</dc:identifier>
+      <dc:source/>
+      <dc:date>2010-07-28T07:00:00Z</dc:date>
+      <prism:publicationName>A narrative-driven design approach for casual games with children</prism:publicationName>
+      <prism:startingPage>19</prism:startingPage>
+      <prism:endingPage>24</prism:endingPage>
+      <prism:coverDate>2010-07-28T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/1836135.1836138</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/1836135.1836138?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3563657.3596105?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Black Feminist Technoscience: Sojourner Truth, Storytelling, and a Framework for Design</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3563657.3596105?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>DIS '23: Proceedings of the 2023 ACM Designing Interactive Systems Conference, Page 978-986. &lt;br/&gt;</content:encoded>
+      <description>DIS '23: Proceedings of the 2023 ACM Designing Interactive Systems Conference, Page 978-986. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3563657.3596105</dc:identifier>
+      <dc:source/>
+      <dc:date>2023-07-10T07:00:00Z</dc:date>
+      <prism:publicationName>Black Feminist Technoscience: Sojourner Truth, Storytelling, and a Framework for Design</prism:publicationName>
+      <prism:startingPage>978</prism:startingPage>
+      <prism:endingPage>986</prism:endingPage>
+      <prism:coverDate>2023-07-10T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/3563657.3596105</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3563657.3596105?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3544549.3573866?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Unraveling The Complexity: A User-Centered Design Process For Narrative Visualization</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3544549.3573866?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, Page 1-7. &lt;br/&gt;</content:encoded>
+      <description>CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, Page 1-7. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3544549.3573866</dc:identifier>
+      <dc:source/>
+      <dc:date>2023-04-20T01:24:40Z</dc:date>
+      <prism:publicationName>Unraveling The Complexity: A User-Centered Design Process For Narrative Visualization</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>7</prism:endingPage>
+      <prism:coverDate>2023-04-20T01:24:40Z</prism:coverDate>
+      <prism:doi>10.1145/3544549.3573866</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3544549.3573866?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3690712.3690719?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Overcoming challenges to personal narrative co-writing with AI: A participatory design approach for under-resourced high school students</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3690712.3690719?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>In2Writing '24: Proceedings of the Third Workshop on Intelligent and Interactive Writing Assistants, Page 23-25. &lt;br/&gt;</content:encoded>
+      <description>In2Writing '24: Proceedings of the Third Workshop on Intelligent and Interactive Writing Assistants, Page 23-25. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3690712.3690719</dc:identifier>
+      <dc:source/>
+      <dc:date>2024-10-15T10:48:09Z</dc:date>
+      <prism:publicationName>Overcoming challenges to personal narrative co-writing with AI: A participatory design approach for under-resourced high school students</prism:publicationName>
+      <prism:startingPage>23</prism:startingPage>
+      <prism:endingPage>25</prism:endingPage>
+      <prism:coverDate>2024-10-15T10:48:09Z</prism:coverDate>
+      <prism:doi>10.1145/3690712.3690719</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3690712.3690719?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3479533?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>The Narrative Tapestry Design Process: Weaving Online Social Support from Stories of Stigma</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3479533?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>Proceedings of the ACM on Human-Computer Interaction, &lt;a href="https://dl.acm.org/toc/pacmhci/2021/5/CSCW2"&gt;Volume 5, Issue CSCW2&lt;/a&gt;, Page 1-35, October 2021. &lt;br/&gt;</content:encoded>
+      <description>Proceedings of the ACM on Human-Computer Interaction, Volume 5, Issue CSCW2, Page 1-35, October 2021. &lt;br/&gt;</description>
+      <dc:title>The Narrative Tapestry Design Process: Weaving Online Social Support from Stories of Stigma</dc:title>
+      <dc:identifier>doi:10.1145/3479533</dc:identifier>
+      <dc:source/>
+      <dc:date>2021-10-19T05:55:36Z</dc:date>
+      <dc:creator>Joshua IntroneIsabel MunozBryan Semaan</dc:creator>
+      <prism:publicationName>Proceedings of the ACM on Human-Computer Interaction</prism:publicationName>
+      <prism:volume>5</prism:volume>
+      <prism:number>CSCW2</prism:number>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>35</prism:endingPage>
+      <prism:coverDate>2021-10-13T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-10-13T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1145/3479533</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3479533?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3635636.3664625?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Overcoming challenges to personal narrative co-writing with AI: A participatory design approach for under-resourced high school students and those that support them</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3635636.3664625?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>C&amp;C '24: Proceedings of the 16th Conference on Creativity &amp;amp;Cognition, Page 17-20. &lt;br/&gt;</content:encoded>
+      <description>C&amp;C '24: Proceedings of the 16th Conference on Creativity &amp; Cognition, Page 17-20. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3635636.3664625</dc:identifier>
+      <dc:source/>
+      <dc:date>2024-06-23T07:00:00Z</dc:date>
+      <prism:publicationName>Overcoming challenges to personal narrative co-writing with AI: A participatory design approach for under-resourced high school students and those that support them</prism:publicationName>
+      <prism:startingPage>17</prism:startingPage>
+      <prism:endingPage>20</prism:endingPage>
+      <prism:coverDate>2024-06-23T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/3635636.3664625</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3635636.3664625?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3616961.3616989?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Nature and Natural Rhythm in the Digital World - What's in It for Child–Computer Interaction?: A narrative literature review and an initial design framework</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3616961.3616989?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>Mindtrek '23: Proceedings of the 26th International Academic Mindtrek Conference, Page 119-132. &lt;br/&gt;</content:encoded>
+      <description>Mindtrek '23: Proceedings of the 26th International Academic Mindtrek Conference, Page 119-132. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3616961.3616989</dc:identifier>
+      <dc:source/>
+      <dc:date>2023-11-02T02:59:03Z</dc:date>
+      <prism:publicationName>Nature and Natural Rhythm in the Digital World - What's in It for Child–Computer Interaction?: A narrative literature review and an initial design framework</prism:publicationName>
+      <prism:startingPage>119</prism:startingPage>
+      <prism:endingPage>132</prism:endingPage>
+      <prism:coverDate>2023-11-02T02:59:03Z</prism:coverDate>
+      <prism:doi>10.1145/3616961.3616989</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3616961.3616989?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3392870?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Supporting Storytelling With Evidence in Holistic Review Processes: A Participatory Design Approach</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3392870?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>Proceedings of the ACM on Human-Computer Interaction, &lt;a href="https://dl.acm.org/toc/pacmhci/2020/4/CSCW1"&gt;Volume 4, Issue CSCW1&lt;/a&gt;, Page 1-24, May 2020. &lt;br/&gt;</content:encoded>
+      <description>Proceedings of the ACM on Human-Computer Interaction, Volume 4, Issue CSCW1, Page 1-24, May 2020. &lt;br/&gt;</description>
+      <dc:title>Supporting Storytelling With Evidence in Holistic Review Processes: A Participatory Design Approach</dc:title>
+      <dc:identifier>doi:10.1145/3392870</dc:identifier>
+      <dc:source/>
+      <dc:date>2020-05-29T03:45:23Z</dc:date>
+      <dc:creator>Ronald A. MetoyerTee ChuanromaneeGina M. GirgisQiyu ZhiEleanor C. Kinyon</dc:creator>
+      <prism:publicationName>Proceedings of the ACM on Human-Computer Interaction</prism:publicationName>
+      <prism:volume>4</prism:volume>
+      <prism:number>CSCW1</prism:number>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>24</prism:endingPage>
+      <prism:coverDate>2020-05-28T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-05-28T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1145/3392870</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3392870?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3284432.3284434?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>A User-Centered Storytelling Approach to Design a Language Companion Robotic Agent</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3284432.3284434?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>HAI '18: Proceedings of the 6th International Conference on Human-Agent Interaction, Page 29-35. &lt;br/&gt;</content:encoded>
+      <description>HAI '18: Proceedings of the 6th International Conference on Human-Agent Interaction, Page 29-35. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3284432.3284434</dc:identifier>
+      <dc:source/>
+      <dc:date>2018-12-04T08:00:00Z</dc:date>
+      <prism:publicationName>A User-Centered Storytelling Approach to Design a Language Companion Robotic Agent</prism:publicationName>
+      <prism:startingPage>29</prism:startingPage>
+      <prism:endingPage>35</prism:endingPage>
+      <prism:coverDate>2018-12-04T08:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/3284432.3284434</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3284432.3284434?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3064663.3064684?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>The Impact of a Narrative Design Strategy for Information Visualization on a Public Display</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3064663.3064684?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>DIS '17: Proceedings of the 2017 Conference on Designing Interactive Systems, Page 833-838. &lt;br/&gt;</content:encoded>
+      <description>DIS '17: Proceedings of the 2017 Conference on Designing Interactive Systems, Page 833-838. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3064663.3064684</dc:identifier>
+      <dc:source/>
+      <dc:date>2017-06-10T07:00:00Z</dc:date>
+      <prism:publicationName>The Impact of a Narrative Design Strategy for Information Visualization on a Public Display</prism:publicationName>
+      <prism:startingPage>833</prism:startingPage>
+      <prism:endingPage>838</prism:endingPage>
+      <prism:coverDate>2017-06-10T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/3064663.3064684</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3064663.3064684?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/2996267.2996270?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Understanding Storytelling as a Design Framework for Cognitive Support Technologies for Older Adults</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/2996267.2996270?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>ITAP '16: Proceedings of the International Symposium on Interactive Technology and Ageing Populations, Page 24-33. &lt;br/&gt;</content:encoded>
+      <description>ITAP '16: Proceedings of the International Symposium on Interactive Technology and Ageing Populations, Page 24-33. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/2996267.2996270</dc:identifier>
+      <dc:source/>
+      <dc:date>2016-10-20T07:00:00Z</dc:date>
+      <prism:publicationName>Understanding Storytelling as a Design Framework for Cognitive Support Technologies for Older Adults</prism:publicationName>
+      <prism:startingPage>24</prism:startingPage>
+      <prism:endingPage>33</prism:endingPage>
+      <prism:coverDate>2016-10-20T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/2996267.2996270</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/2996267.2996270?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/3306500.3306559?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Development of fairy tales electronic book design model using digital storytelling in gamification environment to enhance creative thinking and happiness in learning</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/3306500.3306559?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>IC4E '19: Proceedings of the 10th International Conference on E-Education, E-Business, E-Management and E-Learning, Page 12-17. &lt;br/&gt;</content:encoded>
+      <description>IC4E '19: Proceedings of the 10th International Conference on E-Education, E-Business, E-Management and E-Learning, Page 12-17. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/3306500.3306559</dc:identifier>
+      <dc:source/>
+      <dc:date>2019-01-10T08:00:00Z</dc:date>
+      <prism:publicationName>Development of fairy tales electronic book design model using digital storytelling in gamification environment to enhance creative thinking and happiness in learning</prism:publicationName>
+      <prism:startingPage>12</prism:startingPage>
+      <prism:endingPage>17</prism:endingPage>
+      <prism:coverDate>2019-01-10T08:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/3306500.3306559</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/3306500.3306559?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/2030031.2030040?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>Towards a narrative-oriented approach in media architecture design</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/2030031.2030040?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>RDURP '11: Proceedings of the 2011 ACM symposium on The role of design in UbiComp research &amp;amp;practice, Page 25-32. &lt;br/&gt;</content:encoded>
+      <description>RDURP '11: Proceedings of the 2011 ACM symposium on The role of design in UbiComp research &amp; practice, Page 25-32. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/2030031.2030040</dc:identifier>
+      <dc:source/>
+      <dc:date>2011-09-18T07:00:00Z</dc:date>
+      <prism:publicationName>Towards a narrative-oriented approach in media architecture design</prism:publicationName>
+      <prism:startingPage>25</prism:startingPage>
+      <prism:endingPage>32</prism:endingPage>
+      <prism:coverDate>2011-09-18T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/2030031.2030040</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/2030031.2030040?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/1297277.1297286?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>A learner-centred design approach to developing a visual language for interactive storytelling</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/1297277.1297286?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>IDC '07: Proceedings of the 6th international conference on Interaction design and children, Page 45-52. &lt;br/&gt;</content:encoded>
+      <description>IDC '07: Proceedings of the 6th international conference on Interaction design and children, Page 45-52. &lt;br/&gt;</description>
+      <dc:title/>
+      <dc:identifier>doi:10.1145/1297277.1297286</dc:identifier>
+      <dc:source/>
+      <dc:date>2007-06-06T07:00:00Z</dc:date>
+      <prism:publicationName>A learner-centred design approach to developing a visual language for interactive storytelling</prism:publicationName>
+      <prism:startingPage>45</prism:startingPage>
+      <prism:endingPage>52</prism:endingPage>
+      <prism:coverDate>2007-06-06T07:00:00Z</prism:coverDate>
+      <prism:doi>10.1145/1297277.1297286</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/1297277.1297286?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://dl.acm.org/doi/abs/10.1145/352580.352586?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency">
+      <title>A narrative approach to user requirements for Web design</title>
+      <link>https://dl.acm.org/doi/abs/10.1145/352580.352586?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</link>
+      <content:encoded>Interactions, &lt;a href="https://dl.acm.org/toc/interactions/2000/7/6"&gt;Volume 7, Issue 6&lt;/a&gt;, Page 31-35, Nov./Dec. 2000. &lt;br/&gt;</content:encoded>
+      <description>Interactions, Volume 7, Issue 6, Page 31-35, Nov./Dec. 2000. &lt;br/&gt;</description>
+      <dc:title>A narrative approach to user requirements for Web design</dc:title>
+      <dc:identifier>doi:10.1145/352580.352586</dc:identifier>
+      <dc:source/>
+      <dc:date>2000-11-01T08:00:00Z</dc:date>
+      <dc:creator>Stefana BroadbentFrancesco Cara</dc:creator>
+      <prism:publicationName>Interactions</prism:publicationName>
+      <prism:volume>7</prism:volume>
+      <prism:number>6</prism:number>
+      <prism:startingPage>31</prism:startingPage>
+      <prism:endingPage>35</prism:endingPage>
+      <prism:coverDate>2000-11-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2000-11-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1145/352580.352586</prism:doi>
+      <prism:url>https://dl.acm.org/doi/abs/10.1145/352580.352586?mi=15lxs46&amp;af=R&amp;AllField=Title%3A%28%28%22storytelling%22+OR+%22data+storytelling%22+OR+%22data-driven+storytelling%22+OR+%22narrative%22+OR+%22narrative-driven%22%29+AND+%28%22design%22+OR+%22UX+design%22+OR+%22design+thinking%22%29+AND+%28%22framework%22+OR+%22model%22+OR+%22metamodel%22+OR+%22methodology%22+OR+%22approach%22+OR+%22process%22+OR+%22strategy%22%29%29&amp;content=standard&amp;expand=dl&amp;target=advanced&amp;sortBy=recency</prism:url>
+      <prism:copyright/>
+   </item>
+</rdf:RDF>

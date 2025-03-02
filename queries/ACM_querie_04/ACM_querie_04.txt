@@ -1,0 +1,347 @@
+RT Journal Article
+T1 Key Elements of Design Thinking Tools
+A1 Fu, Zhiyong
+A1 He, Jiaqiu
+A1 Chao, Chiju
+T2 Proceedings of the Sixth International Symposium of Chinese CHI
+AB Design thinking is now gaining popularity in K12 education, but the elements influencing the design thinking process are still ambiguous. In this research, we conducted a great deal of work to explore the key elements of design thinking tools. First, we choose paper tools for the prototype of our experiment, to find out the design thinking mode of high school students. Second, we used the keywords analysis system to extract keywords and to analyze the thinking process. The result showed that starting with storytelling and cooperating with technical needs is more suitable for students to develop their innovative thinking.
+FD 2018-04-21
+YR 2018
+DO 10.1145/3202667.3206097
+SP 128
+OP 131
+SN 9781450365086
+UL https://dl.acm.org/doi/10.1145/3202667.3206097
+RD 2025/03/02/13:18:13
+K1 creative thinking
+K1 design thinking
+K1 Smart tools design
+K1 Storytelling
+
+
+RT Journal Article
+T1 A narrative-driven design approach for casual games with children
+A1 Duh, Henry Been-Lirn
+A1 Yew Yee, Sharon Lynn Chu
+A1 Gu, Yuan Xun
+A1 Chen, Vivian Hsueh-Hua
+T2 Proceedings of the 5th ACM SIGGRAPH Symposium on Video Games
+AB This paper proposes a design approach to build casual games by children for children. Children understand game narratives with previously acquired schemata that is different from adults. Hence, integrating narrative developed by children themselves into game design may serve the children well. Using a narrative approach to game design based on informant design methods, the proposed approach aims to maximize the contribution of both children informants and adult designers. It comprises of three major phases, namely Narrative Design, Game Design and Design Moderation. A mobile phone game was developed based on this approach. User testing revealed that the children generally enjoyed the game and that the proposed approach has promising potential in empowering the child designers. Future work will focus on further evaluation of the approach for refinement.
+FD 2010-07-28
+YR 2010
+DO 10.1145/1836135.1836138
+SP 19
+OP 24
+SN 9781450300971
+UL https://dl.acm.org/doi/10.1145/1836135.1836138
+RD 2025/03/02/13:18:13
+K1 children
+K1 informant design
+K1 narrative game design
+
+
+RT Journal Article
+T1 Black Feminist Technoscience: Sojourner Truth, Storytelling, and a Framework for Design
+A1 Sherman, Jihan
+T2 Proceedings of the 2023 ACM Designing Interactive Systems Conference
+AB Sojourner Truth's portraits with her knitting needles remind us of the entanglements of race, gender, labor and resistance that are at the foundations of transformative approaches required for reworking design. In this paper, I outline Black feminist technoscience as a framework that bridges Black feminism and feminist technoscience in order to connect its critical theory that unpacks power and liberation through the lived experiences of Black women to work in feminist technoscience that has produced important critical scholarship on design and technology. Shifting our focus to Black women heightens our understanding of the transgressive systems embedded in design and opportunities to transform it. I explore core principles of Black feminist technoscience, including intersectionality, coming to voice, the personal and situated, (Black) temporalities, (em)bodied ecologies and the ethics of care. Finally, I present Black feminist technoscience as a praxis that is grounded in storytelling as a method for reworking design.
+FD 2023-07-10
+YR 2023
+DO 10.1145/3563657.3596105
+SP 978
+OP 986
+SN 9781450398930
+ST Black Feminist Technoscience
+UL https://dl.acm.org/doi/10.1145/3563657.3596105
+RD 2025/03/02/13:18:15
+K1 Black feminism
+K1 design
+K1 feminist technoscience
+K1 storytelling
+
+
+RT Journal Article
+T1 Unraveling The Complexity: A User-Centered Design Process For Narrative Visualization
+A1 Tuzcu, Nil
+A1 White, Annie
+A1 Leonard, Brendan
+A1 Geofrey, Steven
+T2 Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
+AB In this case study, we introduce a user-centered design process for developing Metroverse, a narrative visualization platform that communicates urban economic composition and growth opportunities for cities. The primary challenge in making Metroverse stems from the complexity of the underlying research and data, both of which need to be effectively communicated to a wide range of end-users with different backgrounds. To unravel the complexity of the research, and to design the platform, we followed a user-centered design process. Our design process brought together researchers, designers, and various end-users, who collectively guided the design of the narrative visualization. Engaging end-users in the early phases of the project allowed us to identify the valuable insights in the data and subsequently design effective visualizations that convey those insights. We believe findings from our process can provide a template for similar projects that require translating complex research data and methodologies into user-friendly story structures.
+FD 2023-04-19
+YR 2023
+DO 10.1145/3544549.3573866
+SP 1
+OP 7
+SN 9781450394222
+ST Unraveling The Complexity
+UL https://dl.acm.org/doi/10.1145/3544549.3573866
+RD 2025/03/02/13:18:17
+K1 data visualization
+K1 narrative visualization
+K1 storytelling
+
+
+RT Journal Article
+T1 Overcoming challenges to personal narrative co-writing with AI: A participatory design approach for under-resourced high school students
+A1 Fitzsimons, Aidan Z
+A1 Gerber, Elizabeth
+A1 Long, Duri
+T2 Proceedings of the Third Workshop on Intelligent and Interactive Writing Assistants
+AB Our proposed research seeks to design co-writing AI systems to preserve the writer’s personal voice and maintain evaluation integrity with under-resourced high school students applying to college.
+FD 2024-05-11
+YR 2024
+DO 10.1145/3690712.3690719
+SP 23
+OP 25
+SN 9798400710315
+ST Overcoming challenges to personal narrative co-writing with AI
+UL https://dl.acm.org/doi/10.1145/3690712.3690719
+RD 2025/03/02/13:18:19
+K1 AI
+K1 co-writing
+K1 creativity support
+K1 education / learning
+K1 personal essay
+K1 personal narrative
+
+
+RT Journal Article
+T1 Overcoming challenges to personal narrative co-writing with AI: A participatory design approach for under-resourced high school students and those that support them
+A1 Fitzsimons, Aidan Z
+T2 Proceedings of the 16th Conference on Creativity & Cognition
+AB Our proposed research seeks to design co-writing AI systems to preserve the writer’s personal voice and maintain evaluation integrity with under-resourced high school students applying to college.
+FD 2024-06-23
+YR 2024
+DO 10.1145/3635636.3664625
+SP 17
+OP 20
+SN 9798400704857
+ST Overcoming challenges to personal narrative co-writing with AI
+UL https://dl.acm.org/doi/10.1145/3635636.3664625
+RD 2025/03/02/13:18:23
+
+
+RT Journal Article
+T1 The Narrative Tapestry Design Process: Weaving Online Social Support from Stories of Stigma
+A1 Introne, Joshua
+A1 Munoz, Isabel
+A1 Semaan, Bryan
+T2 Proceedings of the ACM on Human-Computer Interaction
+AB While many technology-based approaches to support people living with HIV target specific clinical goals, recent work has begun to consider how to design support in the context of HIV stigma. Here, we consider two challenges; the first, and central challenge is how to work with a small group of stakeholders to design for the much larger, but hard to access, population of HIV-positive individuals. Addressing the first challenge, we introduce the Narrative Tapestry design process, which is our main contribution, and helps create a generative third space wherein stakeholders draw on their cultural knowledge to reflect on common experiences of living with HIV. The second challenge is how to design a platform that is less likely to disintegrate as people transition through phases of living with a stigmatized identity. Applying the Narrative Tapestry process led us to insights that both demonstrate the value of the design process and partially address this second challenge. We find that social support can be a critical lifeline following an HIV diagnosis, but that when people have normalized their identity, this need can give way to a desire to address stigma directly. We propose combining social support tools with a set of features that enable people to work as change-agents to address stigma in their local communities. We argue that this type of platform would help to retain senior members who can serve both as community caretakers as well as role models for newcomers.
+FD 2021-10-18
+YR 2021
+DO 10.1145/3479533
+VO 5
+IS CSCW2
+SP 1
+OP 35
+ST The Narrative Tapestry Design Process
+UL https://dl.acm.org/doi/10.1145/3479533
+RD 2025/03/02/13:18:25
+K1 online health communities
+K1 people living with HIV
+K1 social support
+K1 stigma
+K1 technology for stigma
+
+
+RT Journal Article
+T1 Nature and Natural Rhythm in the Digital World - What's in It for Child?Computer Interaction?: A narrative literature review and an initial design framework
+A1 Tikkanen, Ruut
+A1 Iivari, Netta
+T2 Proceedings of the 26th International Academic Mindtrek Conference
+AB Nature and the natural world are important for the well-being of humans, a position that has been acknowledged in research within various disciplines. Research has also shown humans are alienated from nature, which is of great concern, especially for children, whose well-being should be society's top priority. Child–computer interaction (CCI) research is among the disciplines that should examine nature and natural rhythm in children's lives from the perspective of digital technology. We build a multidisciplinary theoretical framework on nature and natural rhythm with which to review the extant CCI literature. We discuss the state of the art and identify paths for future work. We show that in CCI research, being in nature and catering to nature have been addressed, while less attention has been paid to children being part of nature and its natural rhythm. We discuss how CCI research and design can acknowledge and better support such aspects.
+FD 2023-10-03
+YR 2023
+DO 10.1145/3616961.3616989
+SP 119
+OP 132
+SN 9798400708749
+ST Nature and Natural Rhythm in the Digital World - What's in It for Child?
+UL https://dl.acm.org/doi/10.1145/3616961.3616989
+RD 2025/03/02/13:18:25
+K1 children
+K1 natural rhythm
+K1 Nature
+K1 rhythm
+
+
+RT Journal Article
+T1 Supporting Storytelling With Evidence in Holistic Review Processes: A Participatory Design Approach
+A1 Metoyer, Ronald A.
+A1 Chuanromanee, Tee
+A1 Girgis, Gina M.
+A1 Zhi, Qiyu
+A1 Kinyon, Eleanor C.
+T2 Proceedings of the ACM on Human-Computer Interaction
+AB Review processes involve complex and often subjective decision-making tasks in which individual reviewers must read and rate submissions, such as a college application, along many relevant dimensions and typically with a rubric in mind. A common part of the work is committee review, where individual reviewers meet to discuss the merits of a particular submission in order to recommend an accept or reject decision. Prior work indicates that visualization and sensemaking support may be beneficial in such processes where reviewers must present the "story" of the applicant under question. We conducted a series of participatory design workshops with reviewers in the domain of holistic college admissions to better understand the challenges and opportunities regarding storytelling. Based on these workshops, we contribute a characterization for how reviewers in this domain construct visual stories, we provide guidance for designing for evidence capture and storytelling, and we draw parallels and distinctions between this domain and other reviewing domains.
+FD 2020-05-28
+YR 2020
+DO 10.1145/3392870
+VO 4
+IS CSCW1
+SP 1
+OP 24
+ST Supporting Storytelling With Evidence in Holistic Review Processes
+UL https://dl.acm.org/doi/10.1145/3392870
+RD 2025/03/02/13:18:28
+K1 holistic review
+K1 participatory design
+K1 sensemaking
+K1 storytelling
+
+
+RT Journal Article
+T1 A User-Centered Storytelling Approach to Design a Language Companion Robotic Agent
+A1 Granlund, Isabelle
+A1 Vriend, Sita Aukje
+A1 Benz, Julia
+A1 Azizah, Roisatul
+A1 Laaksoharju, Mikael
+A1 Obaid, Mohammad
+T2 Proceedings of the 6th International Conference on Human-Agent Interaction
+AB Through a user-centered design approach, we explored how a robotic agent can be designed to support students practicing Swedish at home and in class. The process started with design workshops and user-feedback that helped to create a cardboard prototype of a language companion robotic agent. The prototype was used in semi-structured interviews where eight participants created scenarios on how to use the agent, both at home and in a classroom. Our result presents design impressions for a language companion robotic agent categorized into embodiment, emotions, dialogue, and personality. The findings also suggest tasks for the agent at home and in a classroom.
+FD 2018-12-04
+YR 2018
+DO 10.1145/3284432.3284434
+SP 29
+OP 35
+SN 9781450359535
+UL https://dl.acm.org/doi/10.1145/3284432.3284434
+RD 2025/03/02/13:18:29
+K1 companion
+K1 design
+K1 human-robot interaction
+K1 social robotics
+
+
+RT Journal Article
+T1 The Impact of a Narrative Design Strategy for Information Visualization on a Public Display
+A1 Claes, Sandy
+A1 Vande Moere, Andrew
+T2 Proceedings of the 2017 Conference on Designing Interactive Systems
+AB Public displays are increasingly deployed to make civic data easily and publicly consumable. While augmenting such public visualizations with a narrative design strategy could be promising to engage a lay audience, they might perform differently on public displays than on common online media because of the more context-sensitive environment. We therefore report on a comparative in-the-wild study of a public display that contrasts an identical public visualization with and without a narrative structure, and unravel how this affects the user engagement and insight creation process. Our findings indicate how a narrative strategy in relation to contextual aspects supports deeper, more personal reflection on data, connects authorship to the surrounding environment, and overcomes comprehension issues. We believe these results are useful for making public visualizations more effective, as well as understanding why and how lay users interact with and learn from narrative data visualization in general.
+FD 2017-06-10
+YR 2017
+DO 10.1145/3064663.3064684
+SP 833
+OP 838
+SN 9781450349222
+UL https://dl.acm.org/doi/10.1145/3064663.3064684
+RD 2025/03/02/13:18:31
+K1 casual visualization
+K1 in-the-wild
+K1 information visualization
+K1 infovis
+K1 narrative visualization
+K1 public displays
+K1 public visualization
+
+
+RT Journal Article
+T1 Understanding Storytelling as a Design Framework for Cognitive Support Technologies for Older Adults
+A1 Chu, Sharon Lynn
+A1 Garcia, Brittany
+A1 Quance, Taylor
+A1 Geraci, Lisa
+A1 Woltering, Steven
+A1 Quek, Francis
+T2 Proceedings of the International Symposium on Interactive Technology and Ageing Populations
+AB This paper proposes storytelling as a motivational framework for the design of technologies aimed at supporting cognitive activity in older adults. The major design framework that has been used to motivate older adults to engage in cognitive support technologies is gamification, which may not be in tune with seniors' actual context. We describe a mixed qualitative and quantitative study consisting of 17 interviews and 72 surveys with older adults to understand how storytelling, as opposed to gaming, may serve as a motivator for cognitive engagement. Quantitative results showed that seniors are significantly more interested in storytelling than gaming. We present a storytelling design framework from our qualitative findings.
+FD 2016-10-20
+YR 2016
+DO 10.1145/2996267.2996270
+SP 24
+OP 33
+SN 9781450347464
+UL https://dl.acm.org/doi/10.1145/2996267.2996270
+RD 2025/03/02/13:18:33
+K1 Brain training
+K1 Cognitive engagement
+K1 Narrative
+K1 Older adults
+K1 Seniors
+K1 Storytelling
+K1 Technology
+
+
+RT Journal Article
+T1 Development of fairy tales electronic book design model using digital storytelling in gamification environment to enhance creative thinking and happiness in learning
+A1 Phanphai, Pimprapa
+A1 Koraneekij, Prakob
+A1 Khlaisang, Jintavee
+T2 Proceedings of the 10th International Conference on E-Education, E-Business, E-Management and E-Learning
+AB The objectives of this research were 1) to investigate the state and needs of the fairy tales electronics book design and 2) to develop the design model of fairy tales electronics book. This research was the quantitative research which used the data collection instrument as 1) questionnaire in order to analyze the data by using the mean (x̄) and percentage 2) interview and 3) evaluated forms by using the mean (x̄) and standard deviation (SD). The size of sample group was specified by the formula of Cochran (1996). The sample group which was measured through the questionnaire was the primary school teachers for 432 people and upper primary students for 612 people which affiliated with the Office of the Basic Education Commission of 4 regions in Thailand. The sample group which was measured by interview method consisted of the upper primary students for 10 people and experts for 7 people. Lastly, the sample group which was measured by the evaluation forms was 5 experts. The research result presented that the state and needs of mostly teacher and student was the ability of using the website device such as Social Media Search Engine Documentation Presentation Online. Most people had available computer and smartphone which were able to access the internet and necessary with doing the learning activities through the modern devices on website to reach the various sources of knowledge, increased the attention of learning, and applied the design model of fairy tales electronic book by the digital storytelling under the Gamification Environment to encourage the creation and happiness of learning. The summary from the expert found that the learning models consisted of 5 components; 1) Digital Storytelling, 2) Gamification Environment, 3) Role of Learners and Teachers, 4) The Learning Resources and 5) Measurement and Evaluation which contained with 6 processes (PENCIL Model) as 1) Planning a Story Map and Brainstorming, 2) Exploring Resources and Making Storyboard, 3) Narrative Storytelling, 4) Checking the Story and Reflecting, 5) Interactive Social Media Posting, and 6) Learning Evaluation. The PENCIL Model Certification Model Assessment was the most appropriate position which was able to use as the trial.
+FD 2019-01-10
+YR 2019
+DO 10.1145/3306500.3306559
+SP 12
+OP 17
+SN 9781450366021
+UL https://dl.acm.org/doi/10.1145/3306500.3306559
+RD 2025/03/02/13:18:35
+K1 creative thinking
+K1 digital storytelling
+K1 electronic book
+K1 fairy tales
+K1 gamification
+K1 happiness in learning
+
+
+RT Journal Article
+T1 Towards a narrative-oriented approach in media architecture design
+A1 Shi, Danqing
+T2 Proceedings of the 2011 ACM symposium on The role of design in UbiComp research & practice
+AB This paper proposes a narrative-oriented approach in media architecture design, which encourages people to get involved and interact due to the scenario rendering characteristics of the space. In the context of current digital media technologies, this paper begins by reviewing the postmodernism architects' vision of architecture "as signs and systems" which represent its "characteristics". One question that is raised is: Within the limits of technologies, to what extent, can we integrate narratives in media architecture to fabricate a comprehensive user experience, through which the building's characteristics are better represented and the branding message better delivered? This paper then, endeavors to find answers and solutions to this challenge within three case studies of ongoing media architecture projects, in which the narrative methodologies are integrated with interactive digital media design.
+FD 2011-09-18
+YR 2011
+DO 10.1145/2030031.2030040
+SP 25
+OP 32
+SN 9781450309318
+UL https://dl.acm.org/doi/10.1145/2030031.2030040
+RD 2025/03/02/13:18:38
+K1 media architecture
+K1 programmatic narratives
+K1 real estate branding
+
+
+RT Journal Article
+T1 A learner-centred design approach to developing a visual language for interactive storytelling
+A1 Howland, Katherine
+A1 Good, Judith
+A1 Robertson, Judy
+T2 Proceedings of the 6th international conference on Interaction design and children
+AB Creating interactive stories in the form of narrative-based games can have motivational and educational benefits for children, but scripting languages can be a barrier to the activity. This paper describes a learner-centred design (LCD) approach to creating a visual programming language (VPL) for scripting plot events in game-based interactive stories. The LCD approach, unusual in the field of VPLs, was essential to ensure that the software effectively supported our child target users in the game creation process.
+FD 2007-06-06
+YR 2007
+DO 10.1145/1297277.1297286
+SP 45
+OP 52
+SN 9781595937476
+UL https://dl.acm.org/doi/10.1145/1297277.1297286
+RD 2025/03/02/13:18:40
+K1 computer game design
+K1 interactive storytelling
+K1 learner-centred design with children
+K1 visual programming languages
+
+
+RT Journal Article
+T1 A narrative approach to user requirements for Web design
+A1 Pemberton, Steven
+A1 Broadbent, Stefana
+A1 Cara, Francesco
+T2 Interactions
+FD 2000-11
+YR 2000
+DO 10.1145/352580.352586
+VO 7
+IS 6
+SP 31
+OP 35
+UL https://dl.acm.org/doi/10.1145/352580.352586
+RD 2025/03/02/13:18:42
+
+
